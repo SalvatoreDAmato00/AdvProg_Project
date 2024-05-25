@@ -8,6 +8,8 @@ pip install -r Requirements.txt
 I advise to first open and understand the notebooks inside the folders "1_text_splitting", "2_FAISS_index" and "3_text_sourcing". 
 This will create a basis to later proceed. 
 
+Before running any file, it is crucial to create and store your own OPEN AI key. Without this the code will not run.
+
 It is needed to run the file "main.py" to showcase the application. Apply the following command inside your environment:
 
 streamlit run main.py
